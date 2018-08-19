@@ -1,0 +1,48 @@
+{
+  "basics":{
+    "name":"nani",
+    "role":"Mean-stack",
+    "mobile":"+91 9323792379",
+    "email":"kodalisailakshmi195@gmail.com"
+  },
+  "career":{
+"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+
+},
+"education":[
+  {
+    "degree":"B.TECH(Computer Science & Engineering)",
+    "institute":"Vignan Nirula",
+    "data":["2016-20","85%"]
+  },
+  {
+    "degree":"Intermediate(MPC)",
+    "institute":"Xperts Junior College",
+    "data":["2014-16","98%"]
+  },
+  {
+    "degree":"S.S.C",
+    "institute":"Viveka Public School",
+    "data":["2014","92%"]
+  }
+],
+"skills":[
+  {
+    "title":"Programming Languages",
+    "content":["Python","C","Java","R","C++"]
+  },
+  {
+    "title":"Data Bases",
+    "content":["Sql","Oracle","my sql"]
+  },
+  {
+    "title":"Web Technologies",
+    "content":["HTML","XML","JavaScript"]
+  },
+  {
+    "title":"Operating System",
+    "content":["Windows","Unix","Linux"]
+  }
+
+]
+}
